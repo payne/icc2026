@@ -1,0 +1,643 @@
+[
+  {
+    "id": "952d3b14-a231-4cc6-a97f-95940dac3fa5",
+    "fullName": "Mike Benkovich",
+    "firstName": "Mike",
+    "lastName": "Benkovich",
+    "tagLine": "Exploring the possible",
+    "bio": "A developer, business owner, consultant, cloud architect, Microsoft Azure MVP and an online instructor, Mike Benkovich is an alumni of Microsoft from 2004 to 2012 where he helped build developer communities across the US, thru work on Microsoft Across America, MSDN Events, MSDN Webcasts, DPE and Channel 9. He's helped to create and grow developer conferences and user groups in various cities across the US. While at Microsoft he helped create the Azure Boot Camp events that were run in cities across the US and at PDC and TechEd before it was transferred to the community. In 2009 he started a Toastmaster club for Geeks called TechMasters in Minneapolis where we still grow speakers for Conferences. He's a LinkedIn Learning Instructor for Azure, have developed many online courses. Mike actively works in Azure Cloud Governance, Infrastructure as Code, DevOps, Application Architecture and Software Delivery consulting.",
+    "profilePicture": "https://cdn.sessionize.com/image/7ad7-400o400o1-14-a231-4cc6-a97f-95940dac3fa5.e6f98402-92a3-4dcd-bed8-aa0aa6196a08.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1216638",
+        "title": "From GPT to Squad, AI for Developers"
+      }
+    ]
+  },
+  {
+    "id": "ca09c6fa-99e6-4289-afae-c645373367b1",
+    "fullName": "Ryan Bergman",
+    "firstName": "Ryan",
+    "lastName": "Bergman",
+    "tagLine": "Principal Engineer: John Deere Intelligent Solutions Group",
+    "bio": "Ryan is a Principal Engineer at John Deere Intelligent Solutions Group (ISG) where he oversees API standards and architecture for systems farmers depend on for connecting with experts like agronomists, dealers, other experts.",
+    "profilePicture": "https://cdn.sessionize.com/image/0b5c-400o400o1-RT9WcbRaUUEz8GrYVS131q.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1212661",
+        "title": "Old Man Yells At Claude"
+      }
+    ]
+  },
+  {
+    "id": "8723a815-476d-41b4-bed8-c5d2b046bb9e",
+    "fullName": "Jason Bock",
+    "firstName": "Jason",
+    "lastName": "Bock",
+    "tagLine": "Staff Software Engineer - Rocket Mortgage",
+    "bio": "Jason Bock is a Staff Software Engineer at Rocket Mortgage and a Microsoft MVP (C#). He has nearly 30 years of experience working on several business applications using a diverse set of frameworks and languages. He is the author of \".NET Development Using the Compiler API\", \"Metaprogramming in .NET\", and \"Applied .NET Attributes\". He has written numerous articles on software development issues and has presented at a number of conferences and user groups.",
+    "profilePicture": "https://cdn.sessionize.com/image/49f9-400o400o1-LwFBafHHMMVyyQK9vMXFpv.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1219223",
+        "title": "What's New in C#"
+      }
+    ]
+  },
+  {
+    "id": "d491c47d-dc0d-448b-aebf-a5b7fd22a168",
+    "fullName": "Xavier Chong",
+    "firstName": "Xavier",
+    "lastName": "Chong",
+    "tagLine": "Software Engineer at Lean Techniques",
+    "bio": "Graduated from ISU, worked on different stacks, including Qt with C++ doing agriculture vehicle guidance, stored PSQL procedures sending emails, and now full stack processing million(s) of messages every day.",
+    "profilePicture": "https://cdn.sessionize.com/image/584e-400o400o1-J6DA2XvQi5FmWyZr352cp8.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1285739",
+        "title": "Terraform Plan Prettier: A Lesson on Signal vs Noise in the AI world"
+      }
+    ]
+  },
+  {
+    "id": "0ac99051-ecf8-40db-bd9e-e0bbfd1ee454",
+    "fullName": "RoshanKumar Choudhary",
+    "firstName": "RoshanKumar",
+    "lastName": "Choudhary",
+    "tagLine": "Lead Full stack Engineer on Agentic AI in Insurance Domain",
+    "bio": "Roshan Kumar Choudhary is a Lead Full Stack Engineer and AI enthusiast with over 14 years of experience in design, development, and implementation of enterprise applications. Currently at MetLife, he leads the team in Disability claims engineering track — a suite of applications spanning the full claims lifecycle from submission through adjudication and closure — working hands-on with Java, Azure Services including Azure Functions, Cosmos DB, Service Bus, and RESTful APIs. Prior to MetLife, he built payment processing and microservices systems at Deutsche Bank and contributed to airline ticketing and reservation platforms at Hexaware Technologies. His core expertise is breaking monolithic applications into microservices and Azure Functions, performance tuning Java applications, and building Azure Synapse data pipelines. He holds a Bachelor's in Information Technology and a Diploma in Information Technology, and is Oracle Certified (OCJP, OCWCD) and GitHub Copilot Certified.",
+    "profilePicture": "https://cdn.sessionize.com/image/9c3d-400o400o1-Rgs1cFdcDdDzV7neXwxJgv.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1224298",
+        "title": "Azure Functions as MCP Server"
+      }
+    ]
+  },
+  {
+    "id": "4e5b6ff8-d8ff-4c2e-b0ec-3c0c0d6f2467",
+    "fullName": "Mike Clancy",
+    "firstName": "Mike",
+    "lastName": "Clancy",
+    "tagLine": "Director of AI Adoption and Enablement at We Write Code",
+    "bio": "Specialize in agentic coding standards and enterprise AI integration. I help engineering organizations scale developer productivity and build autonomous agentic workflows into production applications.",
+    "profilePicture": "https://cdn.sessionize.com/image/8504-400o400o1-hfbWsjEkZ5ygmVHq3vkLH9.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1315540",
+        "title": "429 Problems: Scaling Systems Without Breaking Everything"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      }
+    ]
+  },
+  {
+    "id": "d36b7429-a2ff-42d6-a6aa-c203a112e37f",
+    "fullName": "Jeremy Darling",
+    "firstName": "Jeremy",
+    "lastName": "Darling",
+    "tagLine": "Principal Consultant",
+    "bio": "Jeremy Darling is a Principal Consultant at Centroid, where he partners with organizations to design and deliver resilient, secure, and scalable technology platforms in complex and regulated environments. With decades of experience across distributed systems, cloud and edge architectures, and Kubernetes-based platforms, Jeremy specializes in translating ambitious technical goals into operational reality.\n\nHis work spans data-driven systems in healthcare, public sector, and higher education, including large-scale analytics initiatives and mission-critical platforms operating under strict security and compliance constraints. Known for navigating high-stakes technical challenges, Jeremy brings a pragmatic, systems-thinking approach to architecture, delivery, and long-term sustainability.\n\nBeyond the technology, Jeremy is deeply committed to the human side of engineering. As a leadership speaker and mental health advocate, he focuses on empathy, resilience, and communication during moments of stress, loss, and organizational change. He believes strong systems are built by healthy teams—and that leadership matters most when things don’t go as planned.\n\nOutside of client work and speaking engagements, Jeremy practices yoga and continues exploring the intersection of mental health, leadership, and sustainable engineering culture.",
+    "profilePicture": "https://cdn.sessionize.com/image/ca8a-400o400o1-GwSWsefpiqt156yJ8ErAJh.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1204997",
+        "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments"
+      }
+    ]
+  },
+  {
+    "id": "0453c171-9578-4d66-a9ce-ae6bf259639e",
+    "fullName": "Elmin Didic",
+    "firstName": "Elmin",
+    "lastName": "Didic",
+    "tagLine": "Software Engineer @ Claimable ",
+    "bio": "Elmin Didic is a Software Engineer at Claimable, wearing many hats from AI evaluation to user experience improvements. He is passionate about building things that matter with real users, focusing on human-centered design, developer experience, and building high-quality software.\n\nPreviously, Elmin worked at The Waldinger Corporation, John Deere, Source Allies, and Casey’s, gaining experience across a range of industries and technical challenges. He earned his Bachelor’s degree in Software Engineering from Iowa State University and is currently pursuing a Master’s in Computer Science at Georgia Tech, specializing in Human-Computer Interaction and Artificial Intelligence.",
+    "profilePicture": "https://cdn.sessionize.com/image/a48a-400o400o1-4ADgeSEcfbLVPxyJek7R61.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1272269",
+        "title": "It’s Just a While Loop: Building Your First AI Coding Agent"
+      }
+    ]
+  },
+  {
+    "id": "fdf3c776-f100-41f5-bb22-7a1f16710740",
+    "fullName": "Arthur Doler",
+    "firstName": "Arthur",
+    "lastName": "Doler",
+    "tagLine": "Senior Software Developer and Community and Culture Steward at Aviture",
+    "bio": "Arthur (or Art, take your pick) has been a software engineer for 22 years and has worked on things as exciting as analysis software for casinos and things as boring as banking websites. He is an advocate for talking openly about mental health and psychology in the technical world, and he spends a lot of time thinking about how we program and why we program, and about the tools, structures, cultures, and mental processes that help and hinder us from our ultimate goal of writing amazing things. His hair is brown and his thorax is a shiny blue color.",
+    "profilePicture": "https://cdn.sessionize.com/image/96f7-400o400o1-76-f100-41f5-bb22-7a1f16710740.7bb72794-a6ce-4d42-9c25-bd158fed902c.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1342856",
+        "title": "Reaping the Benefits of Ritual and Routine"
+      }
+    ]
+  },
+  {
+    "id": "b44992fb-560f-4a45-883c-226821e26743",
+    "fullName": "Mike Driscoll",
+    "firstName": "Mike",
+    "lastName": "Driscoll",
+    "tagLine": "Python Content Creator",
+    "bio": "Michael has been writing Python code since 2006. He blogs about Python at \"The Mouse vs The Python and has been a contributor for Real Python. Michael has written multiple books on Python covering topics such as Jupyter Notebook, wxPython, ReportLab, Image Processing, and much more. \n\nMichael co-wrote a Python cheat sheet for DZone entitled \"Core Python\". He is a member of the Python Software Foundation.",
+    "profilePicture": "https://cdn.sessionize.com/image/56d8-400o400o1-3n9QEoxn9F9aVUSujXG8qX.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1233411",
+        "title": "Python Tooling to Make Your Development Better"
+      }
+    ]
+  },
+  {
+    "id": "e5800022-c35e-469b-bf52-b1fa8e421823",
+    "fullName": "Vaibhav Gujral",
+    "firstName": "Vaibhav",
+    "lastName": "Gujral",
+    "tagLine": "Hands-on Technology Executive | Software Engineering · Cloud · Enterprise AI | Principal Architect, Capgemini | 7x Microsoft MVP | MCT | BCS Fellow",
+    "bio": "Vaibhav Gujral is a hands-on technology leader with 20+ years across software engineering, cloud architecture, and enterprise AI. As a Principal Architect at Capgemini, he leads teams of architects and engineers modernizing large application portfolios and building generative AI solutions for Fortune 500 clients in banking, insurance, and beyond. He is a seven-time Microsoft MVP (Azure & Microsoft Foundry), Microsoft Certified Trainer, BCS Fellow, IEEE Senior Member, and Forbes Technology Council member. Since 2019, he has organized the Omaha Azure User Group — 100+ sessions and counting. Through his talks and writing, he shares practical, experience-driven insights on cloud, AI, and engineering leadership.",
+    "profilePicture": "https://cdn.sessionize.com/image/5075-400o400o1-ffXTyMzrWdrbjHUJwLfTbD.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      }
+    ]
+  },
+  {
+    "id": "848de13d-1c85-4fbf-b627-1c94b80fafa1",
+    "fullName": "Kyle Hoehns",
+    "firstName": "Kyle",
+    "lastName": "Hoehns",
+    "tagLine": "Staff Software Engineer and Teammate Pipeline Architect at Source Allies",
+    "bio": "Kyle is a seasoned Software Engineer with over 15 years of experience in the development and implementation of complex software solutions. With a strong foundation in backend technologies like Java and Go, Kyle has consistently delivered high-quality, scalable, and efficient solutions across various industries. He is passionate about solving problems and believes in not taking himself too seriously.",
+    "profilePicture": "https://cdn.sessionize.com/image/0d64-400o400o1-HkA6uxuiWECw7FFTnhbFJY.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1302474",
+        "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents"
+      }
+    ]
+  },
+  {
+    "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+    "fullName": "Cory House",
+    "firstName": "Cory",
+    "lastName": "House",
+    "tagLine": "Author / Consultant",
+    "bio": "Cory is an author, a 12 time Microsoft MVP, and international speaker. He is founder of reactjsconsulting, where he helps companies transition to React. He has trained over 10,000 software developers at conferences and businesses worldwide. Cory has authored over a dozen courses on JavaScript, React, C#, testing, and web development on Pluralsight and Dometrain. He shares software development tips daily on X as @housecor.",
+    "profilePicture": "https://cdn.sessionize.com/image/629d-400o400o1-hX7JViSy9XGF5ys31ag2tt.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1301637",
+        "title": "Automating Quality with AI"
+      }
+    ]
+  },
+  {
+    "id": "de4a8f3a-8394-4baa-8726-91ac5a445e49",
+    "fullName": "Sourabh Jhawar",
+    "firstName": "Sourabh",
+    "lastName": "Jhawar",
+    "tagLine": "Architect | Enterprise Java, Cloud-Native Microservices & Agentic AI",
+    "bio": "Sourabh Jhawar is a Technical Lead Developer at Apptad with more than 18 years of experience designing, modernizing, and operating enterprise software systems. His expertise spans Java, Spring Boot, microservices, distributed architectures, Kubernetes, AWS, GCP, event-driven systems, CI/CD, observability, and large-scale application modernization.\n\nHis recent work explores the intersection of cloud-native engineering and agentic AI, including autonomous agents for observability, orchestration, remediation, API quality, and enterprise workflows. He is the author of published research on autonomous AI agents in cloud-native microservices and has written about the evolving role of AI in enterprise software engineering. Sourabh is also an Oracle Certified Java Professional, an Associate Google Cloud Engineer, and a Professional Scrum Product Owner. His focus is on translating emerging AI capabilities into reliable, observable, and governable production architectures.",
+    "profilePicture": "https://cdn.sessionize.com/image/0df8-400o400o1-7BPxP6qAn33XvEiqanCZ5y.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      }
+    ]
+  },
+  {
+    "id": "e1a0f90d-87dd-4eaa-aced-f5f08719da07",
+    "fullName": "Anwar Khan",
+    "firstName": "Anwar",
+    "lastName": "Khan",
+    "tagLine": "Production AI Engineering — Agentic AI · MCP · Knowledge RAG · LLM Engineering | Speaker · Author · Mentor",
+    "bio": "Anwar Khan is a Senior Staff Software Engineer specializing in production AI systems, including agentic orchestration, retrieval-augmented generation (RAG), Knowledge RAG / GraphRAG, Model Context Protocol (MCP) server design, LLM evaluation harnesses, and the data-readiness and guardrails work required to make enterprise AI reliable in production. Over 16 years, he has led the productionization of agentic AI systems, secure tool-server architecture, and distributed data platforms operating at petabyte scale.\n\nToday he serves at a Fortune 100 industrial technology company, where he designs and operates AI and platform engineering patterns adopted across multiple engineering teams, including production MCP server infrastructure with multi-tenant authorization, LangGraph-based multi-agent orchestration, hybrid retrieval across vector stores and knowledge graphs, and enterprise LLM observability and evaluation frameworks. His earlier infrastructure work delivered ~400× improvement in streaming throughput while reducing processing latency from 24 hours to under 3 minutes.\n\nAnwar writes and speaks on enterprise AI engineering patterns including MCP, agentic orchestration, evaluation harnesses, LLM guardrails, and AI platform engineering. He is available for keynote, breakout, panel, podcast, technical advisory, judging, and peer-review engagements for AI/ML systems conferences and journals. He holds AWS Solutions Architect Professional and AWS DevOps Engineer Professional certifications, has authored 3 peer-reviewed publications, and received Distinguished Performance recognition in 2025. Stack: Python, TypeScript, Databricks, AWS, Kubernetes, Terraform, LangGraph, LangSmith, Datadog LLM Observability.",
+    "profilePicture": "https://cdn.sessionize.com/image/1878-400o400o1-7Y2jbabfY64aR8Y8CWY6oE.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      }
+    ]
+  },
+  {
+    "id": "c032ce0e-73a9-445b-a42d-a674d6912262",
+    "fullName": "Michael Liendo",
+    "firstName": "Michael",
+    "lastName": "Liendo",
+    "tagLine": "Staff Developer Advocate | Auth0",
+    "bio": "As a Staff Developer Advocate at Auth0, I’ve had the opportunity to build applications, develop architectures, and speak around the world as a way to remain customer obsessed. \n\nSince my beginnings as a self-taught developer, I’ve been focused on simplifying complex scenarios so the barrier to entry becomes a door easily opened for new developers.",
+    "profilePicture": "https://cdn.sessionize.com/image/fe08-400o400o1-GvDdJh1tuwmJFLUJPWtDvK.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1231503",
+        "title": "Trust, But Verify: Human-in-the-Loop for Agents That Actually Matter"
+      }
+    ]
+  },
+  {
+    "id": "77243710-aecb-4d17-b56a-def5022fca6b",
+    "fullName": "Jeffrey Long",
+    "firstName": "Jeffrey",
+    "lastName": "Long",
+    "tagLine": "JL Intelligence",
+    "bio": "Most people who can build AI systems can't explain them. Most people who can explain them can't build them. I spent 20 years in public education developing the second skill before I discovered I had the first one too.\n\nThen I left. Both the classroom and America.\n\nI was in Albania in December 2022 when ChatGPT launched. I showed it to a friend and haven't stopped building since.\n\nToday I build ETL pipelines, AI agent and context systems, and analytics infrastructure — including a 3.1-million-record Iowa campaign finance database assembled entirely from public filings.",
+    "profilePicture": "https://cdn.sessionize.com/image/6767-400o400o1-pnUTuUjt3BDoNPSTq8FK24.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1322971",
+        "title": "The Moat Was Never the Data: Building a Party-Grade Political Data Platform on One 8GB VPS"
+      }
+    ]
+  },
+  {
+    "id": "bdc3c162-02ab-4e2b-a39b-00842eca922e",
+    "fullName": "Grey Lovelace",
+    "firstName": "Grey",
+    "lastName": "Lovelace",
+    "tagLine": "Source Allies, Principal Engineer, Coach, and GenAI Specialist",
+    "bio": "Grey Lovelace is a Principal Engineer at Source Allies, specializing in generative AI solutions and enterprise architecture. With over a decade of experience building resilient applications across insurance, financial services, and agriculture sectors, he has experienced first hand what works, and what doesn’t stand the test of time\n\nAs an early adopter in the generative AI space, Grey focuses on cutting through the hype to deliver practical, business-driving solutions. He brings a pragmatic approach to AI implementation, drawing from his extensive experience designing systems that gracefully handle real-world complexity. Grey's expertise lies in transforming emerging AI capabilities into robust systems that deliver measurable value in production.",
+    "profilePicture": "https://cdn.sessionize.com/image/fed4-400o400o1-LPohvBJayzet78iYoJ9kJi.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1209373",
+        "title": "Embracing the Dev Container: Consistency, AI, and Personalization"
+      },
+      {
+        "id": "1292164",
+        "title": "More Documentation is Not the Answer"
+      }
+    ]
+  },
+  {
+    "id": "fc990bbf-f155-4b9a-b80f-66ae4300e4b4",
+    "fullName": "Whitney Lovelace",
+    "firstName": "Whitney",
+    "lastName": "Lovelace",
+    "tagLine": "Source Allies, Director - Strategy and Delivery",
+    "bio": "Whitney Lovelace is a technology consultant specializing in strategy, product delivery, and enterprise transformation. With over a decade of experience in technology and strategy, she helps organizations navigate complex projects and large-scale transformations by combining technical rigor, strategic insight, and memorable, impactful communication techniques.\n\nWhitney is passionate about making data meaningful through storytelling, using facilitation and engagement strategies that lead to better business outcomes and create compelling employee experiences. She has a BA in Mathematics and Economics from Simpson College and an MBA from Iowa State University with a specialization in Business Analytics.\n\nAn accomplished public speaker and facilitator, Whitney is known for helping leaders and teams translate strategy into action while fostering alignment, collaboration, and measurable results.",
+    "profilePicture": "https://cdn.sessionize.com/image/ded7-400o400o1-Rq3bK2oWAUgrxo9Bm3Q1RS.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1292164",
+        "title": "More Documentation is Not the Answer"
+      },
+      {
+        "id": "1292162",
+        "title": "Team Chartering: The Secret to Effective Collaboration"
+      }
+    ]
+  },
+  {
+    "id": "2ead45d3-f5c6-462f-9e9b-cec377155dc0",
+    "fullName": "Morgan Lyddon",
+    "firstName": "Morgan",
+    "lastName": "Lyddon",
+    "tagLine": "Partner at Blueprint Software",
+    "bio": "I am a Partner at Blueprint Software and help run a National Industrial Waste Recycling business and Building The Future, a nonprofit introducing kids and young adults to the trades.\n\nI have worked at Fortune 500 companies including Casey’s General Stores and Principal Financial Group, with experience spanning insurance, financial services, convenience stores, precision agriculture, and industrial sectors. As an engineer, engineering manager, and product-focused leader, I have built collaborative teams that deliver quality software and connect their work to organizational goals.",
+    "profilePicture": "https://cdn.sessionize.com/image/27cb-400o400o1-a64ua38sK8cL8nLkPshK3j.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1348613",
+        "title": "Beyond the Team: The Questions You Aren’t Hearing"
+      }
+    ]
+  },
+  {
+    "id": "28ec08f5-eb4b-4883-9a58-88b1c084e473",
+    "fullName": "Corey McSparen",
+    "firstName": "Corey",
+    "lastName": "McSparen",
+    "tagLine": "COO and Partner at We Write Code",
+    "bio": "Corey McSparen is Partner and COO at We Write Code, where he wrangles all the things across business functions to ensure client success. Oh...and he deals with lots of software development contracts too. Over a 25-year career across aerospace, finance, insurance, agtech, and professional services, Corey has served as a software architect, technical lead, and full-stack developer. A graduate of the University of Iowa, Corey is passionate about building sustainable delivery processes and delivering value.",
+    "profilePicture": "https://cdn.sessionize.com/image/b508-400o400o1-DN7jJQtyWDd9K6FXvux2f6.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1321928",
+        "title": "Do you actually own your code? Navigating IP, Open Source, and AI"
+      }
+    ]
+  },
+  {
+    "id": "f9fd35e3-56ea-4c61-8c6b-156d9e161b22",
+    "fullName": "Matthew Morrison",
+    "firstName": "Matthew",
+    "lastName": "Morrison",
+    "tagLine": "Software Consultant with Source Allies",
+    "bio": "Matthew Morrison is a software consultant with Source Allies. He is primarily known for his decade+ long love affair with Python. Matthew excels when faced with difficult problems and has a knack for designing creative solutions that get the job done. He is a huge fan of automation, from development tools to infrastructure, and loves creating clean and intuitive application architecture and APIs.",
+    "profilePicture": "https://cdn.sessionize.com/image/0298-400o400o1-hraWisxHKcqp9spydwENar.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1339257",
+        "title": "NixOS: Functional Programming for Your Operating System"
+      }
+    ]
+  },
+  {
+    "id": "670ad58d-3f20-4055-b680-f0b1b45dcb76",
+    "fullName": "Pradeep Kumar Muthukamatchi",
+    "firstName": "Pradeep Kumar",
+    "lastName": "Muthukamatchi",
+    "tagLine": "Principal Cloud Architect, Microsoft.",
+    "bio": "Strategic AI & Cloud Leader with 14+ years of experience driving innovation across startups, enterprises, and mission-driven organizations. Principal Cloud Architect at Microsoft, AI & Cloud leader, Fellow of BSC, global speaker, blogger, Member of Forbes Tech Council and Senior executive AI think Tank, and LinkedIn Top Cloud Voice helping startups scale securely and intelligently.",
+    "profilePicture": "https://cdn.sessionize.com/image/4065-400o400o1-SfSQhHHX6uCrDGBnwuoReA.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1216511",
+        "title": "Mind the Gap: Measuring Disability Bias in LLMs"
+      }
+    ]
+  },
+  {
+    "id": "322780b2-ca8e-449a-894b-5f36bf8258bc",
+    "fullName": "Lara Newsom",
+    "firstName": "Lara",
+    "lastName": "Newsom",
+    "tagLine": "Software Engineering Technical Leader - Cisco",
+    "bio": "In addition to the many conference talks I have given online and around the globe, I am an Angular GDE, NX Champion, and a co-host on the Angular Plus Show where we talk about all things Angular and Angular adjacent. During the day, I am a Senior Software Engineering Technical Leader at Cisco working full time on a large enterprise Angular application using NgRx state management and leveraging Nx Monorepos. I am always energized by sharing my knowledge and being part of the software engineering community. I specialize in talking about cats and random facts but also love talking about software.",
+    "profilePicture": "https://cdn.sessionize.com/image/adf6-400o400o1-ERxjTFYAJ2vwHcYiHb72BN.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1251741",
+        "title": "The Two Architectures: Balancing System Design with AI Orchestration"
+      }
+    ]
+  },
+  {
+    "id": "b1bd4d43-a244-4aab-95bb-92bcaf427ee4",
+    "fullName": "Tim Purdum",
+    "firstName": "Tim",
+    "lastName": "Purdum",
+    "tagLine": "Creative GIS and Web-based .NET Engineer",
+    "bio": "Tim Purdum is the visionary behind the GeoBlazor mapping library and serves as the Director of Product Development at Dymaptic. With a robust background in .NET and web technologies, Tim has been focused on Geographic Information Systems (GIS) since 2021. His expertise and passion for technology have made him a sought-after speaker at numerous conferences, including Visual Studio Live, TechBash, Iowa Code Camp, and DevUp. Tim lives in Cedar Falls, Iowa.",
+    "profilePicture": "https://cdn.sessionize.com/image/b241-400o400o1-Ev39DNxjv35euDRzYjWvK.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1301701",
+        "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era"
+      }
+    ]
+  },
+  {
+    "id": "8163e9eb-4424-447b-966a-ae6f588e2105",
+    "fullName": "Sriramprabhu Rajendran",
+    "firstName": "Sriramprabhu",
+    "lastName": "Rajendran",
+    "tagLine": "Senior Engineering Leader",
+    "bio": "Sriramprabhu Rajendran is a Senior Engineering Leader with 20 years of experience in financial services and technology innovation, specializing in cloud-native architectures, Generative AI, and enterprise-scale distributed systems. Currently serving as Senior Manager of Software Engineering at Capital One, he leads cross-functional teams delivering transformative solutions from concept to production using cutting-edge technologies including Gen AI, Java, Spring Boot, Microservices, AWS, Docker, Kubernetes, and Kafka.",
+    "profilePicture": "https://cdn.sessionize.com/image/5c6b-400o400o1-44hcWkL596kGd2ffiLHNdn.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1216948",
+        "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code"
+      }
+    ]
+  },
+  {
+    "id": "bc37b410-4640-4bcb-91d6-6181e3b30473",
+    "fullName": "Tyler Riker",
+    "firstName": "Tyler",
+    "lastName": "Riker",
+    "tagLine": "CTO at We Write Code. Pragmatic engineering, secure AI, humans in control.",
+    "bio": "Tyler Riker is a Principal Engineer and CTO at We Write Code, a software development consultancy. With 25 years of experience building software, Tyler has architected and delivered systems across industries including agriculture, healthcare, renewable energy, defense, and financial technology.\n\nHis recent work centers on agentic coding, leveraging AI to accelerate development velocity and improve software quality without sacrificing security, pragmatism, or human control. Hands-on in both architecture and code, he focuses on integrating AI models into practical developer workflows, building custom agent extensions, and enforcing robust host sandboxing.\n\nTyler’s engineering philosophy is simple: cut through unnecessary complexity, build reliable software that delivers real utility, and make sure humans stay firmly in the driver’s seat.",
+    "profilePicture": null,
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      }
+    ]
+  },
+  {
+    "id": "30251a8b-c740-4110-abe3-835eccda2ff0",
+    "fullName": "Levi Rosol",
+    "firstName": "Levi",
+    "lastName": "Rosol",
+    "tagLine": "Today we will GSD",
+    "bio": "Levi Rosol is the founder of We Write Code, a custom software development company based in Iowa, where he has spent more than two decades building software for clients ranging from startups to established businesses. He's also the creator of GridSmith, a modular 3D-printed tabletop terrain system born from a love of Dungeons & Dragons, rapid prototyping, and solving interesting problems.",
+    "profilePicture": "https://cdn.sessionize.com/image/2b47-400o400o1-BqkyandFnpKobJRcEmuYUx.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1308533",
+        "title": "Building a physical product in the age of AI"
+      }
+    ]
+  },
+  {
+    "id": "6659a8fc-0dac-444b-aa3d-04954fa919c3",
+    "fullName": "Benjamin Sampica",
+    "firstName": "Benjamin",
+    "lastName": "Sampica",
+    "tagLine": "Owner @ Blueprint Software",
+    "bio": "Ben Sampica is the founder of Blueprint Software and co-owner of Abrasive Removal Services. He also serves as Director of Strategy at Building the Future, a nonprofit because apparently one job wasn’t enough.\n\nWith a decade of experience across retail, insurance, and government, Ben focuses on software that works, teams that learn together, and AI that earns its keep. His work spans .NET, cloud architecture, and software craftsmanship, with a practical approach to making technology useful.\n\nOutside work, Ben is a dad to two daughters, a Girl Scout troop leader, and a gamer operating on whatever free time survives the first two.",
+    "profilePicture": "https://cdn.sessionize.com/image/8ea5-400o400o1-SWZH5jiN3DXHssjWjCC32m.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1347292",
+        "title": "Building Faster Isn’t the Same as Learning Faster"
+      }
+    ]
+  },
+  {
+    "id": "8f9f5411-8e27-4c2f-bc01-fc682342c44c",
+    "fullName": "Scott Sauber",
+    "firstName": "Scott",
+    "lastName": "Sauber",
+    "tagLine": "Director of Engineering at Lean TECHniques Inc",
+    "bio": "Scott is the Director of Engineering at Lean TECHniques Inc. Besides advising clients and delivering solutions for them, he enjoys helping teams realize their potential through technical practices (such as CI/CD, TDD, IAC, etc.) and working more effectively (such as limiting WIP, visualizing work, etc). \n\nHe’s a Microsoft MVP, Redgate Community Ambassador, international speaker, Dometrain author, and co-organizes the Iowa .NET User Group. You can find Scott on Twitter @scottsauber, on Bluesky @scottsauber.com, or on his blog at scottsauber.com.",
+    "profilePicture": "https://cdn.sessionize.com/image/e7e2-400o400o1-11-8e27-4c2f-bc01-fc682342c44c.14b890fa-93df-4504-b4a2-7ed87cadf80e.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1213745",
+        "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)"
+      }
+    ]
+  },
+  {
+    "id": "583e8f08-8316-4ed2-afdf-4cd091e44564",
+    "fullName": "Spencer Schneidenbach",
+    "firstName": "Spencer",
+    "lastName": "Schneidenbach",
+    "tagLine": "AI Architect, Microsoft MVP, President/CTO Aviron Labs",
+    "bio": "Spencer Schneidenbach is an AI Architect, President, and CTO of Aviron Labs, an AI and software development firm based in the United States. He has been recognized as a Microsoft MVP for his AI expertise and contributions to the community. Visit our website at https://avironlabs.com for more information.",
+    "profilePicture": "https://cdn.sessionize.com/image/2d48-400o400o1-08-8316-4ed2-afdf-4cd091e44564.86ef5656-100b-426d-8634-f4d4305b6c67.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1309308",
+        "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight"
+      }
+    ]
+  },
+  {
+    "id": "a9011c65-6287-4529-ac91-56a8b9daa9a9",
+    "fullName": "Mitchel Sellers",
+    "firstName": "Mitchel",
+    "lastName": "Sellers",
+    "tagLine": "Flying Code Ninja!",
+    "bio": "Mitchel Sellers is globally known as a 17-time Microsoft MVP, an ASPInsider, a DNN MVP, is an MCP (Microsoft .NET, ASP.NET and SQL Server), and CEO of IowaComputerGurus Inc. Sellers has a deep understanding of software development and when speaking focuses on proper architecture standards, performance, stability, security, and overall cost-effectiveness of delivered solutions. This message and his abilities resonate in the technical war room as well as the executive board room. \n\nMitchel is a prolific public speaker, presenting more than 400 sessions at user groups and conferences globally, such as DevUp, SDN, and Code PaLOUsa. Sellers has been the author of multiple books and a regular blogger on technology topics.\n\nWhen Mitchel is not working in technology, you will find him flying his airplane, teaching others how to fly, or spending time with his family He is also actively involved in the Open Source Community working diligently to further the movement. Find out more about Sellers at his website http://www.mitchelsellers.com.",
+    "profilePicture": "https://cdn.sessionize.com/image/6de8-400o400o1-SGDx1owbbyMaz74g1KUGgJ.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1207464",
+        "title": "Juggling the Hats: Sustaining Career, Family, and Sanity in Tech"
+      }
+    ]
+  },
+  {
+    "id": "34d26330-35de-4dde-8a61-f38fb5bd821f",
+    "fullName": "Matt Slaymaker",
+    "firstName": "Matt",
+    "lastName": "Slaymaker",
+    "tagLine": "Assistant Professor of Game Design & Interactive Media at Grand View University",
+    "bio": "I am an Assistant Professor of Game Design & Interactive Media at Grand View University. I serve as a full-time faculty member in the art department where I teach courses in game development and computer graphics. Additionally, I teach courses for our Computer Science department in the areas of software development and data science.\nI am a lifelong artist and technologist, and have always enjoyed teaching and working with others that are also inclined to dwell at the intersection where art and technology meet.",
+    "profilePicture": "https://cdn.sessionize.com/image/b68e-400o400o1-SodC2ntDhqsXvs3fEyth9G.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1214876",
+        "title": "Creating Shared Space XR Experiences with Meta Colocation"
+      }
+    ]
+  },
+  {
+    "id": "371dd327-b1ac-42ab-9aca-41195638950c",
+    "fullName": "Travis Smith",
+    "firstName": "Travis",
+    "lastName": "Smith",
+    "tagLine": "Director of Engineering at Shift Interactive",
+    "bio": "Travis Smith is the Director of Engineering at Shift Interactive, a lead engineer on teams that build applications across healthcare, agriculture, insurance, and other industries. Over his 17+ year career, he's worked with organizations ranging from Fortune 500 companies to startups.\n\nTravis is a passionate advocate for Test-Driven Development and Extreme Programming practices. He speaks regularly at Des Moines-area meetups and conferences, covering topics including DORA metrics implementation, branching strategies, delivering software extremely quickly, DevOps, Claude Code, and automated testing for AI features.\n\nBased in the Des Moines metro, Travis is dedicated to helping engineers grow throughout the Midwest.",
+    "profilePicture": "https://cdn.sessionize.com/image/0b03-400o400o1-EL9u6M6eQQhf7BGUzxthe1.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1207448",
+        "title": "Securing Custom MCP Servers"
+      }
+    ]
+  },
+  {
+    "id": "a44c7b35-83ea-48a8-a305-fcfa160d5b76",
+    "fullName": "Dustin Thostenson",
+    "firstName": "Dustin",
+    "lastName": "Thostenson",
+    "tagLine": "Understand, Be Understood",
+    "bio": "Dustin Thostenson is an independent consultant, leading Delta3Consulting. He has been a developer, mentor, trainer and agile coach for decades. His passion lies in helping people grow and teams deliver. To keep it interesting he helps lead the Iowa .NET User Group and volunteers in Central Iowa. To keep it real he spends time with his wife and 4 kids. To keep it random he tweets @dustinson",
+    "profilePicture": "https://cdn.sessionize.com/image/e538-400o400o1-Xsd6LNi2sc54NedtEytU5r.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1212177",
+        "title": "\"The Past Didn’t Go Anywhere\" — Fundamentals > AI"
+      }
+    ]
+  },
+  {
+    "id": "02907474-5b1b-4ea4-9aa2-8f1a1b528dcc",
+    "fullName": "Todd Van Thomme",
+    "firstName": "Todd",
+    "lastName": "Van Thomme",
+    "tagLine": "Shareholder/Patent Attorney",
+    "bio": "Todd Van Thomme is a shareholder at Nyemaster Goode, P.C. in Des Moines, where he chairs the firm's Intellectual Property Department and helps startups, developers, and businesses of all sizes protect what they build — from software and apps to mechanical, chemical, and food science innovations. A registered patent attorney (Iowa, Michigan, and the U.S. Patent and Trademark Office), Todd drafts and prosecutes utility and design patents and advises clients on licensing, trademarks, and IP strategy.\n\nTodd knows the founder's side of the table, too: he's the inventor and owner of Giftzapz, a patented gift list-sharing app and a frequent speaker at the ISU Startup Factory and Iowa State University on innovation and intellectual property. His work has been recognized in The Best Lawyers in America and with the Client Choice Award for patents in Iowa.\n\nAn Iowa State University grad (B.S., Chemistry) with a J.D., with honors, from Drake University, Todd lives in Ankeny and is excited to talk with Iowa's developer community about protecting code and managing risks in code development.",
+    "profilePicture": "https://cdn.sessionize.com/image/19e6-400o400o1-TgcTBGPoskrBArU6Q61emK.jpg",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1321928",
+        "title": "Do you actually own your code? Navigating IP, Open Source, and AI"
+      }
+    ]
+  },
+  {
+    "id": "770d6b80-a16a-4acd-a261-2467ea84e3c0",
+    "fullName": "Cecil Williams",
+    "firstName": "Cecil",
+    "lastName": "Williams",
+    "tagLine": "Consultant at Source Allies, Inc.",
+    "bio": "Cecil G. Williams is consultant with Source Allies, a technical consultancy based in Urbandale Iowa. Cecil is a software craftsman with over 35 years of professional experience. Cecil has deep expertise in practices used by high performing teams such as lean & agile, ensemble development, test-driven development, and continuous integration and delivery. When he's not coaching teams or writing code, he volunteers with Tech Camp, inspiring the next generation of technologists.",
+    "profilePicture": "https://cdn.sessionize.com/image/744f-400o400o1-WzNKKqSiutCGQ6qBaYJW5P.png",
+    "isTopSpeaker": false,
+    "links": [],
+    "sessions": [
+      {
+        "id": "1210155",
+        "title": "Testing Infrastructure as Code - Ensuring Reliability in Terraform and CloudFormation"
+      }
+    ]
+  }
+]

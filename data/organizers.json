@@ -1,0 +1,38 @@
+[
+  {
+    "title": "President",
+    "firstName": "Greg",
+    "lastName": "Sohl",
+    "profilePicture": "https://iowacodecamp.com/assets/images/greg-sohl.jpg"
+  },
+  {
+    "title": "",
+    "firstName": "Nick",
+    "lastName": "Parker",
+    "profilePicture": "https://iowacodecamp.com/assets/images/nick-parker.jpg"
+  },
+  {
+    "title": "",
+    "firstName": "Mike",
+    "lastName": "Cole",
+    "profilePicture": "https://iowacodecamp.com/assets/images/mike-cole.jpg"
+  },
+  {
+    "title": "",
+    "firstName": "Levi",
+    "lastName": "Rosol",
+    "profilePicture": "https://iowacodecamp.com/assets/images/levi-rosol.jpg"
+  },
+  {
+    "title": "",
+    "firstName": "Scott",
+    "lastName": "Sauber",
+    "profilePicture": "https://iowacodecamp.com/assets/images/scott-sauber.png"
+  },
+  {
+    "title": "",
+    "firstName": "Dustin",
+    "lastName": "Thostenson",
+    "profilePicture": "https://iowacodecamp.com/assets/images/dustin-thostenson.png"
+  }
+]

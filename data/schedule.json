@@ -1,0 +1,305 @@
+{
+  "published": false,
+  "timeSlots": [],
+  "unscheduled": [
+    {
+      "id": "1212177",
+      "title": "\"The Past Didn’t Go Anywhere\" — Fundamentals > AI",
+      "room": null,
+      "speakers": [
+        "Dustin Thostenson"
+      ]
+    },
+    {
+      "id": "1315540",
+      "title": "429 Problems: Scaling Systems Without Breaking Everything",
+      "room": null,
+      "speakers": [
+        "Mike Clancy"
+      ]
+    },
+    {
+      "id": "1301637",
+      "title": "Automating Quality with AI",
+      "room": null,
+      "speakers": [
+        "Cory House"
+      ]
+    },
+    {
+      "id": "1224298",
+      "title": "Azure Functions as MCP Server",
+      "room": null,
+      "speakers": [
+        "RoshanKumar Choudhary"
+      ]
+    },
+    {
+      "id": "1348613",
+      "title": "Beyond the Team: The Questions You Aren’t Hearing",
+      "room": null,
+      "speakers": [
+        "Morgan Lyddon"
+      ]
+    },
+    {
+      "id": "1308533",
+      "title": "Building a physical product in the age of AI",
+      "room": null,
+      "speakers": [
+        "Levi Rosol"
+      ]
+    },
+    {
+      "id": "1347292",
+      "title": "Building Faster Isn’t the Same as Learning Faster",
+      "room": null,
+      "speakers": [
+        "Benjamin Sampica"
+      ]
+    },
+    {
+      "id": "1309308",
+      "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight",
+      "room": null,
+      "speakers": [
+        "Spencer Schneidenbach"
+      ]
+    },
+    {
+      "id": "1214876",
+      "title": "Creating Shared Space XR Experiences with Meta Colocation",
+      "room": null,
+      "speakers": [
+        "Matt Slaymaker"
+      ]
+    },
+    {
+      "id": "1321928",
+      "title": "Do you actually own your code? Navigating IP, Open Source, and AI",
+      "room": null,
+      "speakers": [
+        "Corey McSparen",
+        "Todd Van Thomme"
+      ]
+    },
+    {
+      "id": "1301701",
+      "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era",
+      "room": null,
+      "speakers": [
+        "Tim Purdum"
+      ]
+    },
+    {
+      "id": "1209373",
+      "title": "Embracing the Dev Container: Consistency, AI, and Personalization",
+      "room": null,
+      "speakers": [
+        "Grey Lovelace"
+      ]
+    },
+    {
+      "id": "1280673",
+      "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability",
+      "room": null,
+      "speakers": [
+        "Anwar Khan"
+      ]
+    },
+    {
+      "id": "1216638",
+      "title": "From GPT to Squad, AI for Developers",
+      "room": null,
+      "speakers": [
+        "Mike Benkovich"
+      ]
+    },
+    {
+      "id": "1317434",
+      "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything",
+      "room": null,
+      "speakers": [
+        "Sourabh Jhawar"
+      ]
+    },
+    {
+      "id": "1302474",
+      "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents",
+      "room": null,
+      "speakers": [
+        "Kyle Hoehns"
+      ]
+    },
+    {
+      "id": "1272269",
+      "title": "It’s Just a While Loop: Building Your First AI Coding Agent",
+      "room": null,
+      "speakers": [
+        "Elmin Didic"
+      ]
+    },
+    {
+      "id": "1207464",
+      "title": "Juggling the Hats: Sustaining Career, Family, and Sanity in Tech",
+      "room": null,
+      "speakers": [
+        "Mitchel Sellers"
+      ]
+    },
+    {
+      "id": "1204997",
+      "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments",
+      "room": null,
+      "speakers": [
+        "Jeremy Darling"
+      ]
+    },
+    {
+      "id": "1216511",
+      "title": "Mind the Gap: Measuring Disability Bias in LLMs",
+      "room": null,
+      "speakers": [
+        "Pradeep Kumar Muthukamatchi"
+      ]
+    },
+    {
+      "id": "1310955",
+      "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization",
+      "room": null,
+      "speakers": [
+        "Vaibhav Gujral"
+      ]
+    },
+    {
+      "id": "1292164",
+      "title": "More Documentation is Not the Answer",
+      "room": null,
+      "speakers": [
+        "Whitney Lovelace",
+        "Grey Lovelace"
+      ]
+    },
+    {
+      "id": "1216948",
+      "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code",
+      "room": null,
+      "speakers": [
+        "Sriramprabhu Rajendran"
+      ]
+    },
+    {
+      "id": "1339257",
+      "title": "NixOS: Functional Programming for Your Operating System",
+      "room": null,
+      "speakers": [
+        "Matthew Morrison"
+      ]
+    },
+    {
+      "id": "1212661",
+      "title": "Old Man Yells At Claude",
+      "room": null,
+      "speakers": [
+        "Ryan Bergman"
+      ]
+    },
+    {
+      "id": "1233411",
+      "title": "Python Tooling to Make Your Development Better",
+      "room": null,
+      "speakers": [
+        "Mike Driscoll"
+      ]
+    },
+    {
+      "id": "1342856",
+      "title": "Reaping the Benefits of Ritual and Routine",
+      "room": null,
+      "speakers": [
+        "Arthur Doler"
+      ]
+    },
+    {
+      "id": "1320673",
+      "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents",
+      "room": null,
+      "speakers": [
+        "Mike Clancy",
+        "Tyler Riker"
+      ]
+    },
+    {
+      "id": "1207448",
+      "title": "Securing Custom MCP Servers",
+      "room": null,
+      "speakers": [
+        "Travis Smith"
+      ]
+    },
+    {
+      "id": "1292162",
+      "title": "Team Chartering: The Secret to Effective Collaboration",
+      "room": null,
+      "speakers": [
+        "Whitney Lovelace"
+      ]
+    },
+    {
+      "id": "1285739",
+      "title": "Terraform Plan Prettier: A Lesson on Signal vs Noise in the AI world",
+      "room": null,
+      "speakers": [
+        "Xavier Chong"
+      ]
+    },
+    {
+      "id": "1210155",
+      "title": "Testing Infrastructure as Code - Ensuring Reliability in Terraform and CloudFormation",
+      "room": null,
+      "speakers": [
+        "Cecil Williams"
+      ]
+    },
+    {
+      "id": "1213745",
+      "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)",
+      "room": null,
+      "speakers": [
+        "Scott Sauber"
+      ]
+    },
+    {
+      "id": "1322971",
+      "title": "The Moat Was Never the Data: Building a Party-Grade Political Data Platform on One 8GB VPS",
+      "room": null,
+      "speakers": [
+        "Jeffrey Long"
+      ]
+    },
+    {
+      "id": "1251741",
+      "title": "The Two Architectures: Balancing System Design with AI Orchestration",
+      "room": null,
+      "speakers": [
+        "Lara Newsom"
+      ]
+    },
+    {
+      "id": "1231503",
+      "title": "Trust, But Verify: Human-in-the-Loop for Agents That Actually Matter",
+      "room": null,
+      "speakers": [
+        "Michael Liendo"
+      ]
+    },
+    {
+      "id": "1219223",
+      "title": "What's New in C#",
+      "room": null,
+      "speakers": [
+        "Jason Bock"
+      ]
+    }
+  ]
+}

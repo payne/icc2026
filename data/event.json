@@ -1,0 +1,22 @@
+{
+  "name": "Iowa Code Camp",
+  "date": "2026-11-07",
+  "dateDisplay": "November 7, 2026",
+  "city": "Ankeny, IA",
+  "description": "For software developers interested in industry-specific topics, such as front-end JavaScript frameworks, IT cloud infrastructure, database architecture, and working with engineering teams",
+  "venue": {
+    "name": "FFA Enrichment Center",
+    "address": "1055 SW Prairie Trail Parkway",
+    "cityStateZip": "Ankeny, Iowa 50023",
+    "mapUrl": "https://goo.gl/maps/rjdq3G6sKLZWrNbE7"
+  },
+  "hotels": "There are many hotels that are good selections at the intersection of I-35 and SE Oralabor Rd.",
+  "contactEmail": "leaders@iowacodecamp.com",
+  "registrationUrl": "https://www.tickettailor.com/events/iowacodecamp/2402912",
+  "mailingListUrl": "https://madmimi.com/signups/4917cbfde53f46fdaf2efe03b33cb2d3/join",
+  "website": "https://iowacodecamp.com",
+  "websiteBy": {
+    "name": "We Write Code",
+    "url": "https://wewritecode.com/"
+  }
+}

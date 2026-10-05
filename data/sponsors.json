@@ -1,0 +1,50 @@
+[
+  {
+    "name": "We Write Code",
+    "url": "https://wewritecode.com/",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/wwc.png",
+    "level": "Event Sponsor"
+  },
+  {
+    "url": "https://www.vgmgroup.com/",
+    "name": "VGM",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/vgm.png",
+    "level": "Speaker Dinner Sponsor"
+  },
+  {
+    "url": "https://www.sourceallies.com/",
+    "name": "Source Allies",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/source-allies.png",
+    "level": "Lunch Sponsor"
+  },
+  {
+    "name": "Lean TECHniques",
+    "url": "https://leantechniques.com/",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/lt.png",
+    "level": "Table Sponsors"
+  },
+  {
+    "name": "Shazam",
+    "url": "https://www.shazam.net/who-we-are/careers",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/shazam.png",
+    "level": "Table Sponsors"
+  },
+  {
+    "name": "Cole Consulting",
+    "url": "https://cole-consulting.net/",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/cole-consulting.png",
+    "level": "Room Sponsors"
+  },
+  {
+    "name": "Delta3 Consulting",
+    "url": "https://delta3consulting.com/",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/delta3.png",
+    "level": "Room Sponsors"
+  },
+  {
+    "url": "https://discountasp.net/",
+    "name": "DiscountASP.NET",
+    "logoURL": "https://iowacodecamp.com/assets/images/sponsors/discount-asp.png",
+    "level": "Supporters"
+  }
+]

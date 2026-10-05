@@ -1,0 +1,474 @@
+[
+  {
+    "topic": "AI & LLMs",
+    "sessionCount": 23,
+    "sessions": [
+      {
+        "id": "1212177",
+        "title": "\"The Past Didn’t Go Anywhere\" — Fundamentals > AI"
+      },
+      {
+        "id": "1301637",
+        "title": "Automating Quality with AI"
+      },
+      {
+        "id": "1224298",
+        "title": "Azure Functions as MCP Server"
+      },
+      {
+        "id": "1308533",
+        "title": "Building a physical product in the age of AI"
+      },
+      {
+        "id": "1309308",
+        "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight"
+      },
+      {
+        "id": "1321928",
+        "title": "Do you actually own your code? Navigating IP, Open Source, and AI"
+      },
+      {
+        "id": "1301701",
+        "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era"
+      },
+      {
+        "id": "1209373",
+        "title": "Embracing the Dev Container: Consistency, AI, and Personalization"
+      },
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      },
+      {
+        "id": "1216638",
+        "title": "From GPT to Squad, AI for Developers"
+      },
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      },
+      {
+        "id": "1302474",
+        "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents"
+      },
+      {
+        "id": "1272269",
+        "title": "It’s Just a While Loop: Building Your First AI Coding Agent"
+      },
+      {
+        "id": "1216511",
+        "title": "Mind the Gap: Measuring Disability Bias in LLMs"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1216948",
+        "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code"
+      },
+      {
+        "id": "1212661",
+        "title": "Old Man Yells At Claude"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      },
+      {
+        "id": "1207448",
+        "title": "Securing Custom MCP Servers"
+      },
+      {
+        "id": "1285739",
+        "title": "Terraform Plan Prettier: A Lesson on Signal vs Noise in the AI world"
+      },
+      {
+        "id": "1213745",
+        "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)"
+      },
+      {
+        "id": "1251741",
+        "title": "The Two Architectures: Balancing System Design with AI Orchestration"
+      },
+      {
+        "id": "1231503",
+        "title": "Trust, But Verify: Human-in-the-Loop for Agents That Actually Matter"
+      }
+    ]
+  },
+  {
+    "topic": "AI Agents",
+    "sessionCount": 12,
+    "sessions": [
+      {
+        "id": "1224298",
+        "title": "Azure Functions as MCP Server"
+      },
+      {
+        "id": "1309308",
+        "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight"
+      },
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      },
+      {
+        "id": "1216638",
+        "title": "From GPT to Squad, AI for Developers"
+      },
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      },
+      {
+        "id": "1302474",
+        "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents"
+      },
+      {
+        "id": "1272269",
+        "title": "It’s Just a While Loop: Building Your First AI Coding Agent"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      },
+      {
+        "id": "1213745",
+        "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)"
+      },
+      {
+        "id": "1251741",
+        "title": "The Two Architectures: Balancing System Design with AI Orchestration"
+      },
+      {
+        "id": "1231503",
+        "title": "Trust, But Verify: Human-in-the-Loop for Agents That Actually Matter"
+      }
+    ]
+  },
+  {
+    "topic": "AI-Assisted Coding",
+    "sessionCount": 11,
+    "sessions": [
+      {
+        "id": "1308533",
+        "title": "Building a physical product in the age of AI"
+      },
+      {
+        "id": "1309308",
+        "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight"
+      },
+      {
+        "id": "1209373",
+        "title": "Embracing the Dev Container: Consistency, AI, and Personalization"
+      },
+      {
+        "id": "1216638",
+        "title": "From GPT to Squad, AI for Developers"
+      },
+      {
+        "id": "1302474",
+        "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents"
+      },
+      {
+        "id": "1272269",
+        "title": "It’s Just a While Loop: Building Your First AI Coding Agent"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1216948",
+        "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      },
+      {
+        "id": "1213745",
+        "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)"
+      },
+      {
+        "id": "1251741",
+        "title": "The Two Architectures: Balancing System Design with AI Orchestration"
+      }
+    ]
+  },
+  {
+    "topic": "Cloud & DevOps",
+    "sessionCount": 8,
+    "sessions": [
+      {
+        "id": "1315540",
+        "title": "429 Problems: Scaling Systems Without Breaking Everything"
+      },
+      {
+        "id": "1224298",
+        "title": "Azure Functions as MCP Server"
+      },
+      {
+        "id": "1209373",
+        "title": "Embracing the Dev Container: Consistency, AI, and Personalization"
+      },
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      },
+      {
+        "id": "1204997",
+        "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1216948",
+        "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      }
+    ]
+  },
+  {
+    "topic": "Architecture & Modernization",
+    "sessionCount": 6,
+    "sessions": [
+      {
+        "id": "1315540",
+        "title": "429 Problems: Scaling Systems Without Breaking Everything"
+      },
+      {
+        "id": "1301701",
+        "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era"
+      },
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      },
+      {
+        "id": "1204997",
+        "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1251741",
+        "title": "The Two Architectures: Balancing System Design with AI Orchestration"
+      }
+    ]
+  },
+  {
+    "topic": "Languages & Tooling",
+    "sessionCount": 6,
+    "sessions": [
+      {
+        "id": "1209373",
+        "title": "Embracing the Dev Container: Consistency, AI, and Personalization"
+      },
+      {
+        "id": "1317434",
+        "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1339257",
+        "title": "NixOS: Functional Programming for Your Operating System"
+      },
+      {
+        "id": "1233411",
+        "title": "Python Tooling to Make Your Development Better"
+      },
+      {
+        "id": "1219223",
+        "title": "What's New in C#"
+      }
+    ]
+  },
+  {
+    "topic": "Teams & Process",
+    "sessionCount": 5,
+    "sessions": [
+      {
+        "id": "1348613",
+        "title": "Beyond the Team: The Questions You Aren’t Hearing"
+      },
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      },
+      {
+        "id": "1310955",
+        "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization"
+      },
+      {
+        "id": "1292164",
+        "title": "More Documentation is Not the Answer"
+      },
+      {
+        "id": "1292162",
+        "title": "Team Chartering: The Secret to Effective Collaboration"
+      }
+    ]
+  },
+  {
+    "topic": "Testing & Quality",
+    "sessionCount": 4,
+    "sessions": [
+      {
+        "id": "1301637",
+        "title": "Automating Quality with AI"
+      },
+      {
+        "id": "1301701",
+        "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era"
+      },
+      {
+        "id": "1216948",
+        "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code"
+      },
+      {
+        "id": "1210155",
+        "title": "Testing Infrastructure as Code - Ensuring Reliability in Terraform and CloudFormation"
+      }
+    ]
+  },
+  {
+    "topic": "Security",
+    "sessionCount": 4,
+    "sessions": [
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      },
+      {
+        "id": "1204997",
+        "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments"
+      },
+      {
+        "id": "1320673",
+        "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents"
+      },
+      {
+        "id": "1207448",
+        "title": "Securing Custom MCP Servers"
+      }
+    ]
+  },
+  {
+    "topic": "MCP",
+    "sessionCount": 3,
+    "sessions": [
+      {
+        "id": "1224298",
+        "title": "Azure Functions as MCP Server"
+      },
+      {
+        "id": "1280673",
+        "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability"
+      },
+      {
+        "id": "1207448",
+        "title": "Securing Custom MCP Servers"
+      }
+    ]
+  },
+  {
+    "topic": "Infrastructure as Code",
+    "sessionCount": 3,
+    "sessions": [
+      {
+        "id": "1339257",
+        "title": "NixOS: Functional Programming for Your Operating System"
+      },
+      {
+        "id": "1285739",
+        "title": "Terraform Plan Prettier: A Lesson on Signal vs Noise in the AI world"
+      },
+      {
+        "id": "1210155",
+        "title": "Testing Infrastructure as Code - Ensuring Reliability in Terraform and CloudFormation"
+      }
+    ]
+  },
+  {
+    "topic": "Career & Wellbeing",
+    "sessionCount": 3,
+    "sessions": [
+      {
+        "id": "1207464",
+        "title": "Juggling the Hats: Sustaining Career, Family, and Sanity in Tech"
+      },
+      {
+        "id": "1212661",
+        "title": "Old Man Yells At Claude"
+      },
+      {
+        "id": "1342856",
+        "title": "Reaping the Benefits of Ritual and Routine"
+      }
+    ]
+  },
+  {
+    "topic": "Product & Startups",
+    "sessionCount": 2,
+    "sessions": [
+      {
+        "id": "1308533",
+        "title": "Building a physical product in the age of AI"
+      },
+      {
+        "id": "1347292",
+        "title": "Building Faster Isn’t the Same as Learning Faster"
+      }
+    ]
+  },
+  {
+    "topic": "Ethics, Law & Accessibility",
+    "sessionCount": 2,
+    "sessions": [
+      {
+        "id": "1321928",
+        "title": "Do you actually own your code? Navigating IP, Open Source, and AI"
+      },
+      {
+        "id": "1216511",
+        "title": "Mind the Gap: Measuring Disability Bias in LLMs"
+      }
+    ]
+  },
+  {
+    "topic": "Data",
+    "sessionCount": 1,
+    "sessions": [
+      {
+        "id": "1322971",
+        "title": "The Moat Was Never the Data: Building a Party-Grade Political Data Platform on One 8GB VPS"
+      }
+    ]
+  },
+  {
+    "topic": "XR",
+    "sessionCount": 1,
+    "sessions": [
+      {
+        "id": "1214876",
+        "title": "Creating Shared Space XR Experiences with Meta Colocation"
+      }
+    ]
+  }
+]

@@ -1,0 +1,848 @@
+[
+  {
+    "id": "1212177",
+    "title": "\"The Past Didn’t Go Anywhere\" — Fundamentals > AI",
+    "description": "\"The more things change, the more they stay the same\" -- Alphonse Karr, 1849\n\nFrom COBOL to .COM to DevOps to AI, our industry has repeatedly promised a future where developers are no longer needed. \nAnd yet -- developers remain critical. \nEach wave didn’t eliminate developers—it forced them to evolve.\n\nAs AI accelerates, many developers will face a hard truth: we’ve optimized for syntax instead of solving real problems.\nShort-term gains have come at the cost of learning the fundamentals that actually create value.\nAI won’t fix this—it will expose it.\n\nDesign patterns, system thinking, effective communication, and quality practices didn’t go anywhere.\nWHAT we do hasn’t changed nearly as much as HOW we'll do it.\n\nThis isn’t a talk about AI tools.\nIt's about becoming the developer our future needs.\n\nIf it appears dark, shine your light.",
+    "speakers": [
+      {
+        "id": "a44c7b35-83ea-48a8-a305-fcfa160d5b76",
+        "name": "Dustin Thostenson"
+      }
+    ],
+    "tags": [
+      "AI & LLMs"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1315540",
+    "title": "429 Problems: Scaling Systems Without Breaking Everything",
+    "description": "We’ll explore the real world tradeoffs of parallel processing through a case study of an AI pipeline that processes and analyzes large volumes of user-submitted political opinions. The system performs moderation, embedding generation, and downstream analysis using a distributed, event-driven architecture built on AWS.\n\nIn this session attendees will learn how to design scalable, resilient pipelines using parallel processing while avoiding common pitfalls like rate limits, throttling, and cascading failures. They’ll leave with practical patterns for building fault-tolerant systems, balancing throughput with external constraints, and handling partial failures gracefully.\n\nWe’ll break down how parallelism improves throughput and responsiveness, while also examining the less obvious challenges it introduces, such as rate limiting, back pressure, partial failures, and data consistency.\n\nWhile the case study uses AWS services, the architectural principles are cloud-agnostic and applicable to any distributed system handling high-throughput workloads.",
+    "speakers": [
+      {
+        "id": "4e5b6ff8-d8ff-4c2e-b0ec-3c0c0d6f2467",
+        "name": "Mike Clancy"
+      }
+    ],
+    "tags": [
+      "Cloud & DevOps",
+      "Architecture & Modernization"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1301637",
+    "title": "Automating Quality with AI",
+    "description": "\"AI writes slop\" is a common concern. So how can we use LLMs to not just generate good code, but to *ensure* quality? Let's explore how to create effective \"guardrails\" via generated tests, spec-driven development, instruction approaches, prompting techniques, context management, and more. After this session you'll have a list of novel ideas for improving your LLM interactions.",
+    "speakers": [
+      {
+        "id": "424f7166-a882-473f-b05e-15aed7f9ff86",
+        "name": "Cory House"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Testing & Quality"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1224298",
+    "title": "Azure Functions as MCP Server",
+    "description": "AI systems are evolving beyond chat interfaces into agents capable of taking real-world actions. But how do we safely and scalably expose tools to these systems?\nIn this talk, we explore how to use Azure Functions as a backend for Model Context Protocol (MCP), enabling AI models to interact with real APIs, sensor systems, and business logic. Azure Functions provide a powerful and flexible backend for MCP-based AI tooling. By combining serverless computing with standardized AI protocols, developers can build scalable, intelligent systems that extend the capabilities of modern AI agents.",
+    "speakers": [
+      {
+        "id": "0ac99051-ecf8-40db-bd9e-e0bbfd1ee454",
+        "name": "RoshanKumar Choudhary"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "MCP",
+      "Cloud & DevOps"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1348613",
+    "title": "Beyond the Team: The Questions You Aren’t Hearing",
+    "description": "Your team is building features, solving technical problems, and keeping software running. Elsewhere in the organization, leaders are asking questions about priorities, investment, risk, and business goals. Those questions shape your team’s work, but how often does your team actually hear them?\n\nUnderstanding those conversations matters for engineers and engineering managers alike. Engineers need context to make good decisions and explain what they need. Managers must navigate the team’s daily challenges while understanding leadership’s expectations and bringing that context back to the team.\n\nYet promotion into management often comes before exposure to the conversations that shape those expectations. For engineers considering management, we’ll discuss what to understand before making the move: how your responsibilities change, how to navigate competing priorities, and how to make decisions beyond your technical expertise.\n\nDrawing on my experience as an engineer and engineering manager, this talk explores how to connect daily engineering work with organizational goals. We’ll examine what directors, VPs, and executives need to understand, how managers can share that perspective with their teams, and how individuals can use it to make stronger recommendations for features, technical debt reduction, architectural changes, and other team needs.",
+    "speakers": [
+      {
+        "id": "2ead45d3-f5c6-462f-9e9b-cec377155dc0",
+        "name": "Morgan Lyddon"
+      }
+    ],
+    "tags": [
+      "Teams & Process"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1308533",
+    "title": "Building a physical product in the age of AI",
+    "description": "What happens when a software developer decides to build a physical product?\n\nIn this session, I'll share the story behind GridSmith—a modular tabletop terrain system that started as a personal frustration with existing products and evolved into a real business. Along the way, AI became much more than a coding assistant. It became a design partner, a CAD tutor, a rubber duck, a technical writer, a marketing assistant, and an endless source of ideas.\n\nWe'll explore the entire journey: identifying the problem worth solving, designing hundreds of iterations of a physical product, learning OpenSCAD through AI-assisted development, optimizing for 3D printing and manufacturing, building an e-commerce website through \"vibe coding,\" and launching a product that people can actually buy.\n\nThis isn't a session about replacing developers with AI. It's about how modern AI tools dramatically lower the barrier between an idea and a finished product, allowing a single person to wear the hats of engineer, product designer, manufacturer, and entrepreneur.\n\nWhether you're a developer, maker, or simply curious about what AI can enable, you'll leave with practical insights, honest lessons learned, and hopefully the confidence to start building that idea you've been putting off.",
+    "speakers": [
+      {
+        "id": "30251a8b-c740-4110-abe3-835eccda2ff0",
+        "name": "Levi Rosol"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI-Assisted Coding",
+      "Product & Startups"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1347292",
+    "title": "Building Faster Isn’t the Same as Learning Faster",
+    "description": "The dump truck industry runs on handshake agreements, phone calls, and sprawling group texts. Truckers scramble to find work while contractors juggle dozens of conversations just to get trucks where they need them.\n\nThe solution seemed obvious: build an Uber for dump trucks.\n\nSo we did. The software worked, truckers showed up, we had insider knowledge and domain expertise. We kept improving the product and had glowing feedback. But the businesses we needed didn’t behave the way we assumed they would - and every pivot eventually ran into the same underlying problem. \n\nUsing our failure as a case study, this talk looks at how engineers can identify the assumptions their software depends on, test the riskiest ones before overbuilding, and recognize when technical progress isn’t actually producing learning. As AI makes software faster and cheaper to build, knowing what deserves to be built is becoming an increasingly important engineering skill.",
+    "speakers": [
+      {
+        "id": "6659a8fc-0dac-444b-aa3d-04954fa919c3",
+        "name": "Benjamin Sampica"
+      }
+    ],
+    "tags": [
+      "Product & Startups"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1309308",
+    "title": "Coding While You Sleep: How I Deliver Real, Paid Projects Running AI Agents Overnight",
+    "description": "AI coding tools like Claude Code and OpenAI Codex are powerful amplifiers of existing developer skill. But exactly how far can you take them? Is Ralph really a useful way to write software?\n\nSpencer ran AI agents overnight, letting them tackle complex problems while he slept, for both paid projects (that netted over USD$250k in revenue!) as well as some fun side projects - and he's been doing it long before Ralph was cool.\n\nIn this session, Spencer will share the lessons he learned from pushing AI coding agents to their limits. We'll discuss how to structure prompts and tasks for long-running agent sessions, how to set up your projects so agents can work autonomously, and how to review and validate AI-generated code so you're not shipping garbage. We'll also cover the practical, everyday techniques that make you a more effective AI-assisted developer.\n\nIf you've been curious about Ralphing but haven't figured out how to make Ralph truly productive, this session will give you a roadmap. Come ready to learn how to put AI agents to work - even while you're off the clock.",
+    "speakers": [
+      {
+        "id": "583e8f08-8316-4ed2-afdf-4cd091e44564",
+        "name": "Spencer Schneidenbach"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1214876",
+    "title": "Creating Shared Space XR Experiences with Meta Colocation",
+    "description": "Discover how to create shared space XR experiences utilizing the colocation features of the Meta Quest 3 XR headsets. Whether you are currently an XR developer, looking to get started, or simply curious to learn more about XR, you will leave with practical strategies for building your own dynamic shared space experiences.",
+    "speakers": [
+      {
+        "id": "34d26330-35de-4dde-8a61-f38fb5bd821f",
+        "name": "Matt Slaymaker"
+      }
+    ],
+    "tags": [
+      "XR"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1321928",
+    "title": "Do you actually own your code? Navigating IP, Open Source, and AI",
+    "description": "The open source library you pulled in at 2 a.m.? That's a contract. The AI tool that wrote half your last sprint? It may have created code you can't claim — or can't defend. Your daily technical decisions are quietly shaping your legal reality.\n\nA patent attorney and a software developer walk into a code camp... and agree on more than you'd expect. We'll tackle the same real-world problems from both sides of the table: the IP essentials every developer should know, the open source gotchas that really bite, and how to use AI tools without giving away the code you create. Legal survival skills, minus the legalese. Come find out if you're building an asset or a liability.",
+    "speakers": [
+      {
+        "id": "28ec08f5-eb4b-4883-9a58-88b1c084e473",
+        "name": "Corey McSparen"
+      },
+      {
+        "id": "02907474-5b1b-4ea4-9aa2-8f1a1b528dcc",
+        "name": "Todd Van Thomme"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Ethics, Law & Accessibility"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1301701",
+    "title": "Don't Feed the Machine Spaghetti: Code Quality Principles for the AI Era",
+    "description": "AI coding assistants have changed the speed at which we write code, but they haven't changed what makes code good! In fact, they've raised the stakes. Repeated logic, unclear naming, and tangled dependencies don't just confuse new developers — they bloat the model context, confuse the LLM, and burn through your token budget while degrading the quality of every suggestion the AI makes. The result? Inconsistent, low-quality output that amplifies your existing technical debt.\n\nIn this session, we'll explore why the fundamentals of software architecture — DRY principles, separation of concerns, meaningful abstractions, and testable design — aren't just good hygiene, they are essential for developing quality, sustainable software with AI. We'll look at how to scaffold AI instructions (prompt markdown files, agents, skills) so your tool follows your patterns instead of inventing its own. And we'll do live, side-by-side comparisons: the same coding task with and without architectural scaffolding, so you can see the difference for yourself.\n\nYou'll leave with a portable set of LLM instruction templates you can drop into your .NET coding project today.",
+    "speakers": [
+      {
+        "id": "b1bd4d43-a244-4aab-95bb-92bcaf427ee4",
+        "name": "Tim Purdum"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Testing & Quality",
+      "Architecture & Modernization"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1209373",
+    "title": "Embracing the Dev Container: Consistency, AI, and Personalization",
+    "description": "Tired of hearing \"It works on my machine\"? Dev Containers solve the pain of onboarding and dependency conflicts by treating your entire development environment as code. But getting a basic setup running is only the beginning.\n\nIn this live-coding session, we will explore how to build consistent, reproducible, and highly personalized developer workspaces. We will cover the fundamentals of Dev Containers, when to use them, and how to effortlessly add tools using \"Features.\" You will also learn how to maintain developer happiness by injecting your personal dotfiles and user-scoped extensions, without polluting the team's shared environment.\n\nFinally, we will tackle the modern workflow requirement: seamlessly integrating AI coding assistants like GitHub Copilot, Claude Code, and Opencode directly into your isolated containers across VS Code and other supported IDEs. You will leave this session ready to containerize your workflow, code from anywhere, and keep your local machine entirely clutter-free.",
+    "speakers": [
+      {
+        "id": "bdc3c162-02ab-4e2b-a39b-00842eca922e",
+        "name": "Grey Lovelace"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI-Assisted Coding",
+      "Cloud & DevOps",
+      "Languages & Tooling"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1280673",
+    "title": "From Chatbot to Production Agent: MCP, Identity, Evaluation, and Observability",
+    "description": "Many teams can build an impressive AI agent demo. The harder part is turning it into a production-ready agent that can safely use tools, reason over messy enterprise data, and earn trust from developers, users, and stakeholders.\n\nThis session walks through a practical architecture for moving from prototype to production: preparing AI-ready data before model invocation, exposing tools through MCP or API-based integration layers, securing tool access with identity and authorization, adding retrieval and ranking patterns, and instrumenting agent workflows with logging, traces, evaluation, and feedback loops.\n\nUsing public-safe enterprise examples from service, dealer, and quality workflows, we will break down the decisions that make agents useful beyond a chat window. Attendees will leave with a blueprint for building agents that are secure, observable, reusable, and ready for real product teams.",
+    "speakers": [
+      {
+        "id": "e1a0f90d-87dd-4eaa-aced-f5f08719da07",
+        "name": "Anwar Khan"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "MCP",
+      "Security",
+      "Teams & Process"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1216638",
+    "title": "From GPT to Squad, AI for Developers",
+    "description": "The right tool can make all the difference, whether in carpentry and construction or in building software. Understanding what the tools can do, and paying attention to how they work is critical in making sure we keep up with the times. AI has introduced some amazing capabilities that in the right hands can make us more productive and effective, but the rate that these tools change can leave you stranded behind. GPT and Codexes have come of age for sketching together a solution. Copilot took that to a new level by integrating this capability into our IDE's. Agents automated giving high level direction and getting features built, and now with Squad we can have coordinated agents doing this for us. How do we stay in front of the curve? That's what we'll focus on. We'll dive into the tools from a developer's focus and explore the possible.",
+    "speakers": [
+      {
+        "id": "952d3b14-a231-4cc6-a97f-95940dac3fa5",
+        "name": "Mike Benkovich"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1317434",
+    "title": "From Monolith to Agent-Ready: Modernizing Enterprise Java Without Rewriting Everything",
+    "description": "Most enterprises will not become AI-native by replacing their core applications. They will get there by evolving them.\n\nThis session presents a staged modernization path from monolithic enterprise applications to microservices and ultimately to agent-enabled workflows. It examines how service boundaries, APIs, event-driven messaging, cloud platforms, observability and CI/CD create the foundation that intelligent agents require.\n\nThe session also addresses a critical architectural question: which parts of an existing system should become accessible to AI, and which deterministic business rules should remain untouched?\n\nDrawing on extensive enterprise modernization experience across financial services and retail, the session provides a practical roadmap for introducing AI into brownfield environments without creating a second architecture that becomes harder to operate than the first.",
+    "speakers": [
+      {
+        "id": "de4a8f3a-8394-4baa-8726-91ac5a445e49",
+        "name": "Sourabh Jhawar"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "Cloud & DevOps",
+      "Architecture & Modernization",
+      "Languages & Tooling"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1302474",
+    "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents",
+    "description": "AI-assisted development has come a long way from autocomplete, further than most of us are actually using it. After a year-plus of using these tools daily on real client work, I’ve watched them go from a glorified search box to agents that can build an entire feature while I review the results from my phone.\n\nIn this session we’ll make that whole climb live, with no slides full of setup screens and “here’s my results.” We’ll start from a completely empty project and build a real REST API feature end to end, using tools like Claude Code and GitHub Copilot.\n\nWe’ll go one step at a time: asking the assistant questions, letting it edit code, then handing it tools to test and fix its own work. From there we’ll teach it your standards with custom skills, wire up the guardrails that keep it honest, and finally turn a team of sub-agents loose while we review the result.\n\nWhether you’ve never opened an AI assistant or you’re already running agents daily, there’s a place to jump in. You’ll walk away understanding how the pieces actually fit together, and how to start building this way on your own projects.",
+    "speakers": [
+      {
+        "id": "848de13d-1c85-4fbf-b627-1c94b80fafa1",
+        "name": "Kyle Hoehns"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1272269",
+    "title": "It’s Just a While Loop: Building Your First AI Coding Agent",
+    "description": "Behind every AI coding assistant is a surprisingly small idea: a loop that lets a language model think, call tools, and react to the results. In this intro-level session, we’ll break down how harnesses like Claude Code, OpenCode, and Pi are built, the agent loop, tool definitions, reading and editing files, running commands, and keeping the model on track. Then we’ll write a minimal coding agent together so you can see exactly where the “magic” lives. No prior AI experience required; if you can read a for-loop, you can follow along.",
+    "speakers": [
+      {
+        "id": "0453c171-9578-4d66-a9ce-ae6bf259639e",
+        "name": "Elmin Didic"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1207464",
+    "title": "Juggling the Hats: Sustaining Career, Family, and Sanity in Tech",
+    "description": "Software professionals operate in an environment of constant change, high expectations, and competing responsibilities. Architects, developers, leaders, parents, mentors, we often wear all the hats at once. Drawing on more than two decades as an independent consultant and technology executive, this session shares practical strategies for maintaining balance without sacrificing career momentum or personal well-being. We’ll explore managing professional timelines, protecting family commitments, investing in continuous learning, and prioritizing mental health in demanding roles. Attendees leave with concrete tools and habits they can apply immediately to reduce burnout, make better decisions, and build a sustainable long-term career in technology.",
+    "speakers": [
+      {
+        "id": "a9011c65-6287-4529-ac91-56a8b9daa9a9",
+        "name": "Mitchel Sellers"
+      }
+    ],
+    "tags": [
+      "Career & Wellbeing"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1204997",
+    "title": "Kubernetes Without the Cloud: Operating Secure Clusters in Disconnected Environments",
+    "description": "Ever wondered what it really takes to run a government-grade Kubernetes cluster in a warehouse environment with little to no internet access?\n\nThis talk explores a real-world deployment of a highly secured, near-air-gapped Kubernetes platform operating far from the comforts of the cloud. With strict compliance requirements, limited connectivity, and physical infrastructure constraints, many common assumptions about “cloud-native” operations had to be rethought.\n\nWe’ll walk through the architectural decisions that made this possible, including why RKE2 played a critical role in enabling secure, repeatable operations in a constrained environment. Along the way, we’ll cover image distribution, upgrades, certificate management, observability, and the operational patterns that emerge when connectivity is a luxury rather than a given.\n\nThis session is aimed at engineers and architects working in regulated, edge, or high-security environments who want to understand what actually changes when Kubernetes is designed to run disconnected—and what careful planning makes possible.",
+    "speakers": [
+      {
+        "id": "d36b7429-a2ff-42d6-a6aa-c203a112e37f",
+        "name": "Jeremy Darling"
+      }
+    ],
+    "tags": [
+      "Security",
+      "Cloud & DevOps",
+      "Architecture & Modernization"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1216511",
+    "title": "Mind the Gap: Measuring Disability Bias in LLMs",
+    "description": "Large Language Models now power accessibility tools and real‑world decision systems, yet disability bias remains one of AI’s most overlooked failures. With 1.3B people worldwide living with disabilities, the stakes are enormous. Unlike gender or racial bias, disability bias is subtle and systemic—LLMs often produce generic, overly cautious, or inaccurate responses, and frequently recommend tools that don’t match users’ needs. The root cause is a persistent “disability data desert,” where training sets lack representative disability‑related data. The result: voice assistants misinterpret non‑standard speech, mobility systems overlook wheelchair users, and assistive tech underperforms for those who need it most.\nThis session exposes why disability bias persists, why scaling models won’t fix it, and what it takes to build truly inclusive AI. It introduces a practical framework grounded in inclusive data practices, fairness‑aware training, prompt‑level safeguards, and continuous evaluation using disability‑aware benchmarks—shifting the conversation from abstract bias metrics to real‑world impact.",
+    "speakers": [
+      {
+        "id": "670ad58d-3f20-4055-b680-f0b1b45dcb76",
+        "name": "Pradeep Kumar Muthukamatchi"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Ethics, Law & Accessibility"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1310955",
+    "title": "Modernize at Machine Speed: How AI Agents Are Transforming Application Modernization",
+    "description": "Legacy applications consume 70–80% of IT budgets, yet most modernization programs stall under the weight of undocumented code, scope creep, and human bandwidth constraints. AI agents have changed that calculus. In this session, you'll see how the GitHub Copilot Modernization Agent and Azure Copilot Migration Agent work together to compress months of migration work into targeted, automated sprints — discovering dependencies, resolving breaking changes, generating upgrade PRs, and building prioritized wave plans with a human in the loop where it matters.\nThrough a live demo on a real .NET Framework to .NET 10 scenario, you'll also see how Azure AI Foundry lets you extend these agents with custom assessment logic tuned to your organization's risk tolerance and team velocity. We'll cover where agents fall short, what guardrails to put in place, and how to structure an operating model your teams will actually adopt.",
+    "speakers": [
+      {
+        "id": "e5800022-c35e-469b-bf52-b1fa8e421823",
+        "name": "Vaibhav Gujral"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding",
+      "Cloud & DevOps",
+      "Architecture & Modernization",
+      "Languages & Tooling",
+      "Teams & Process"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1292164",
+    "title": "More Documentation is Not the Answer",
+    "description": "We've all seen pages of documentation that no one reads, or worse, it leads people astray. In this talk, we will challenge the conventional wisdom that \"more documentation is always better\" and explore why traditional documentation practices often become a liability rather than an asset. Drawing from real-world examples and hard-learned lessons, we'll demonstrate how well-intentioned documentation efforts frequently become maintenance burdens that slow teams down and mislead new contributors.\n\nThis talk is for engineers and any engineering team stakeholder that has wanted a team to move faster without sacrificing clarity. Attendees will learn how to recognize when documentation helps or hurts, adopt lightweight practices that keep your team aligned, and replace stale wikis with living collaborative documentation.",
+    "speakers": [
+      {
+        "id": "fc990bbf-f155-4b9a-b80f-66ae4300e4b4",
+        "name": "Whitney Lovelace"
+      },
+      {
+        "id": "bdc3c162-02ab-4e2b-a39b-00842eca922e",
+        "name": "Grey Lovelace"
+      }
+    ],
+    "tags": [
+      "Teams & Process"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1216948",
+    "title": "Mutation Testing — The Missing Safety Net for AI-Generated Code",
+    "description": "The code coverage by your CI pipeline stands at 95%. Your PR looks good. Your code and its unit tests were authored by the AI coding assistant. Green all around. It's time to ship. Yet the tests aren't doing their job. There is code coverage, but no behavioral coverage – the tests run the code path without asserting the behavior and the bugs they let through are the kind that make your application crash at 2 AM.\n\nWelcome to the false-confidence crisis of AI-generated code. While there are many possible solutions out there, none matches mutation testing in effectiveness. In mutation testing, various tiny mutations are made to the codebase and the test suite is tasked with detecting them. The fact that a mutation was detected means that the test suite is missing some aspect of the code's behavior. Run mutation testing on AI-generated code and you will be surprised how often it fails even if the coverage reaches 100%.\n\nIn this session, attendees will get hands-on experience with mutation testing of actual code generated by AI assistants. Attendees will observe how AI assistants generate code coverage tests that lack logical coverage; learn how to incorporate mutation testing frameworks (PITest in Java, Stryker in JavaScript/TypeScript) in your CI/CD pipeline as a quality gate step; and leave with a decision matrix to determine mutation score cutoffs that account for both completeness and pipeline performance.",
+    "speakers": [
+      {
+        "id": "8163e9eb-4424-447b-966a-ae6f588e2105",
+        "name": "Sriramprabhu Rajendran"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI-Assisted Coding",
+      "Testing & Quality",
+      "Cloud & DevOps"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1339257",
+    "title": "NixOS: Functional Programming for Your Operating System",
+    "description": "What if your entire operating system, every package, every config file, every service, was just the output of a pure function? That's the actual premise behind NixOS, and once you see it, a lot of longstanding Linux pain points (conflicting dependencies, \"works on my machine,\" upgrades that quietly break something unrelated) start to look like symptoms of a much older problem: imperative, mutable system state.\n\nThis talk is a practical, entry-level introduction to NixOS through the lens of three ideas borrowed straight from functional programming: declarative configuration (you describe the system you want, not the steps to get there), immutability (your system's definition never changes in place; instead, new, versioned \"generations\" get created), and determinism (the same config, pinned correctly, builds the identical system anywhere, every time).\n\nWe'll build a real NixOS system live and walk through instant, atomic rollbacks, the payoff that makes the whole model click. No prior NixOS or functional programming experience assumed. If you've ever used a package manager and wondered why it has to be this way, this talk is for you.\n\nYou'll leave with a clear, accurate mental model of what NixOS actually is, and whether it's worth exploring for your own machines.",
+    "speakers": [
+      {
+        "id": "f9fd35e3-56ea-4c61-8c6b-156d9e161b22",
+        "name": "Matthew Morrison"
+      }
+    ],
+    "tags": [
+      "Infrastructure as Code",
+      "Languages & Tooling"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1212661",
+    "title": "Old Man Yells At Claude",
+    "description": "So here I am, having spent the majority of my life becoming a pretty good programmer, and now AI has changed everything. In this talk I want to look at our relationship with this new tech, how it's impacting our careers, and the way we think of ourselves.",
+    "speakers": [
+      {
+        "id": "ca09c6fa-99e6-4289-afae-c645373367b1",
+        "name": "Ryan Bergman"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Career & Wellbeing"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1233411",
+    "title": "Python Tooling to Make Your Development Better",
+    "description": "Learn about the best tools you can use to make your Python development better.\n\nIn this tutorial, you will learn about the following:\n\n- Python linters\n- Python code formatters\n- Python type checkers\n- Dead code scanners\n- and more!\n\nThis tutorial is great for beginners and intermediate developers who want to improve their development experience.",
+    "speakers": [
+      {
+        "id": "b44992fb-560f-4a45-883c-226821e26743",
+        "name": "Mike Driscoll"
+      }
+    ],
+    "tags": [
+      "Languages & Tooling"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1342856",
+    "title": "Reaping the Benefits of Ritual and Routine",
+    "description": "Software is as close as humans are ever going to come to actual magic. You type arcane incantations using cryptic symbols, crafting messages incomprehensible to most mortals and communicating them to vast, unknowable systems, to be executed blindly by idiot machine gods who follow our instructions to the very character. We're an elite class of human, chosen through intense courses of secluded study, or simply by the winds of chance, to engage with this symbolic and mystic realm. But while we're comparing ourselves to wizards, witches, and sorcerers, we're actually leaving one of their most powerful tools on the table: rituals.\n\nLet's learn what our brain does when we do an activity repeatedly, with other humans, or simply by ourselves. You'll learn the difference between a ritual and a routine, you'll discover why ritual practices are an important part of being a group, and you'll get an overview of when, where, and how to employ these powerful tools. You'll complete your magical arsenal, and you'll never look at a retrospective the same way again.",
+    "speakers": [
+      {
+        "id": "fdf3c776-f100-41f5-bb22-7a1f16710740",
+        "name": "Arthur Doler"
+      }
+    ],
+    "tags": [
+      "Career & Wellbeing"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1320673",
+    "title": "Sandboxing the Machines: Practical Host Security for AI Coding Agents",
+    "description": "We can't develop locally like it's 2021. AI coding agents have evolved from simple tab-completion into autonomous operators with shell access and deep reach into our broader engineering ecosystems, spanning local environments, Docker containers, CI/CD pipelines, and cloud tools like Figma and Google Drive.\n\nAgentic coding isn't a \"free upgrade\", it introduces serious security risks and host machine exposure. Protecting secrets in your Git history is no longer sufficient, we must now safeguard our local machines and connected infrastructure from the agents themselves.\n\nIn this session, we will explore practical strategies for sandboxing local AI workflows to enforce strict project boundaries and prevent unauthorized system changes. We will also demonstrate how to provision tightly scoped, temporary permissions across your broader toolchain, ensuring your agents can interact with your ecosystem without holding the keys to the kingdom.",
+    "speakers": [
+      {
+        "id": "4e5b6ff8-d8ff-4c2e-b0ec-3c0c0d6f2467",
+        "name": "Mike Clancy"
+      },
+      {
+        "id": "bc37b410-4640-4bcb-91d6-6181e3b30473",
+        "name": "Tyler Riker"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding",
+      "Security",
+      "Cloud & DevOps"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1207448",
+    "title": "Securing Custom MCP Servers",
+    "description": "Learn essential techniques for implementing authorization in custom MCP server deployments. We’ll explore configuration approaches for authentication, role-based access patterns, and security boundaries between AI clients and your custom servers. Practical examples demonstrate how to build robust authorization layers that protect sensitive resources while maintaining system performance.",
+    "speakers": [
+      {
+        "id": "371dd327-b1ac-42ab-9aca-41195638950c",
+        "name": "Travis Smith"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "MCP",
+      "Security"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1292162",
+    "title": "Team Chartering: The Secret to Effective Collaboration",
+    "description": "Why do some teams \"click\" while others clash? It usually comes down to the unwritten rules. This talk is an interactive deep dive into the art of the Team Charter. I’ll share my personal methodology for aligning diverse personalities into a cohesive unit. We’ll discuss how to facilitate honest conversations about working styles and how to bake accountability directly into your team’s DNA. Come ready to participate, reflect, and walk away with a toolkit to transform your team's culture.",
+    "speakers": [
+      {
+        "id": "fc990bbf-f155-4b9a-b80f-66ae4300e4b4",
+        "name": "Whitney Lovelace"
+      }
+    ],
+    "tags": [
+      "Teams & Process"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1285739",
+    "title": "Terraform Plan Prettier: A Lesson on Signal vs Noise in the AI world",
+    "description": "I've wrote a GHA that turns a Terraform Plan into a collapsible Markdown file with diff highlighting for the changes. This talk will be about why problem the team faced at the beginning, the problem we're trying to solve, where we ended up, and how this can be taken further. There will also be a brief introduction of Terraform and the lessons learnt, including Signal vs Noise in the modern SDLC.",
+    "speakers": [
+      {
+        "id": "d491c47d-dc0d-448b-aebf-a5b7fd22a168",
+        "name": "Xavier Chong"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "Infrastructure as Code"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1210155",
+    "title": "Testing Infrastructure as Code - Ensuring Reliability in Terraform and CloudFormation",
+    "description": "Many teams leverage infrastructure as code but don't test it. Learn how to test your infrastructure before you break production. I'll cover Terraform and CloudFormation testing tools—from linting to integration tests—with live demos including Test-Driven Infrastructure (TDI).",
+    "speakers": [
+      {
+        "id": "770d6b80-a16a-4acd-a261-2467ea84e3c0",
+        "name": "Cecil Williams"
+      }
+    ],
+    "tags": [
+      "Testing & Quality",
+      "Infrastructure as Code"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1213745",
+    "title": "The 10 Most Common Agentic Coding Mistakes (and how to fix them)",
+    "description": "I've been working with organizations large and small on how to adopt Agentic Coding tools and techniques. While doing so, I've seen the same types of mistakes (both technical, people, and process) that pop up over and over again. In this talk, I'll give practical tips around optimizing your harness, skills you need to be leveraging, and more while also avoiding running up huge bills. Be ready for interactive live demos beyond just watching the tool \"Flibbertigibbeting...\"\n\nWhether you're deep into your Agentic Coding journey or just getting started, you'll walk away with practical guidance you can apply immediately back at work. And maybe most importantly, you'll be able to answer the question your boss asks you on Monday: \"So what'd you learn at the conference?\"",
+    "speakers": [
+      {
+        "id": "8f9f5411-8e27-4c2f-bc01-fc682342c44c",
+        "name": "Scott Sauber"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1322971",
+    "title": "The Moat Was Never the Data: Building a Party-Grade Political Data Platform on One 8GB VPS",
+    "description": "Both major parties run their field operations on data platforms that cost five figures and require committee approval to touch. Independents, third-party candidates, and local challengers are structurally locked out — not because the data is secret, but because assembling it was expensive. It isn't anymore.\n\nThis is the architecture of a statewide political data warehouse built entirely from public record on a single small cloud box: 3.1 million campaign contributions, 2 million FEC records, 627,000 precinct-level results, county parcels with assessed value and residency, census geography, all joinable. Postgres/PostGIS, Docker Compose, Caddy, Metabase — no exotic stack, no funding round. We'll walk the real design decisions and the constraint that drove every one of them: a citizen must be able to run this on a hobby budget.",
+    "speakers": [
+      {
+        "id": "77243710-aecb-4d17-b56a-def5022fca6b",
+        "name": "Jeffrey Long"
+      }
+    ],
+    "tags": [
+      "Data"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1251741",
+    "title": "The Two Architectures: Balancing System Design with AI Orchestration",
+    "description": "The software industry is obsessed with AI-driven development, yet we are witnessing a divergence in how we define \"architecture.\" Traditionally, architecture focused on the structural integrity and long-term viability of the system itself. Today, a second, emerging layer has become equally vital, a well-orchestrated AI architecture designed to govern the specialized agents and workflows that generate our code.\n\nAs tools like Claude Code and Copilot become permanent fixtures in our lifecycle, we see the rise of a new technical debt, a steady accumulation of functional code that lacks cohesive vision. This happens because AI often defaults to \"average\" solutions, ignoring the unique paradigms of a specific codebase. While AI provides the output, humans must still own the architectural outcome.\n\nTo build software that lasts, we must master both domains. We must stop treating AI as a replacement for architectural thinking and start treating the AI environment as an architectural challenge of its own. If we cannot manage the deterministic systems we already have, we cannot hope to find success in an orchestration of non-deterministic agents.\n\nThis session moves beyond simple code generation to address the fundamental responsibility of the modern developer. We will explore how to build a robust development context by moving from traditional system blueprints to a sophisticated AI architecture using custom agents, specialized skills, and other context management tools. Attendees will learn practical strategies to ensure AI remains a disciplined collaborator that respects system design rather than a source of decay. By shifting our focus from writing lines to curating the architecture of our AI agents, we can accelerate development while strengthening the structural integrity of our software foundations.",
+    "speakers": [
+      {
+        "id": "322780b2-ca8e-449a-894b-5f36bf8258bc",
+        "name": "Lara Newsom"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents",
+      "AI-Assisted Coding",
+      "Architecture & Modernization"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1231503",
+    "title": "Trust, But Verify: Human-in-the-Loop for Agents That Actually Matter",
+    "description": "AI agents are getting good at taking action. The hard part isn't making them capable, it's knowing when to make them stop.\n\nIn this talk we'll walk through the full spectrum of human-in-the-loop patterns, from lightweight inline confirmations to out-of-band permission gates to handing your agent a wallet with real money in it and more. Each pattern fits a different level of consequence, and knowing which to reach for is what separates demo agents from production ones. We'll cover the honest tradeoffs of latency, user experience, and trust so you can make the right call for your specific use case.\n\nThe entire talk is built around various live demos that escalate in stakes with every step. You'll leave with a mental model and working reference architecture you can apply the same day.",
+    "speakers": [
+      {
+        "id": "c032ce0e-73a9-445b-a42d-a674d6912262",
+        "name": "Michael Liendo"
+      }
+    ],
+    "tags": [
+      "AI & LLMs",
+      "AI Agents"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  },
+  {
+    "id": "1219223",
+    "title": "What's New in C#",
+    "description": "C# has been in existence for more than 20 years. In recent history, the number of features and changes have substantially increased, thereby allowing C# developers to write applications with new techniques and approaches. In this session, I'll cover a number of these language improvements. I'll demonstrate how these features can enhance code bases with concision and performance. If you've coded in C# for a while, and you're interested in updating your comprehension of the language, this session is for you!",
+    "speakers": [
+      {
+        "id": "8723a815-476d-41b4-bed8-c5d2b046bb9e",
+        "name": "Jason Bock"
+      }
+    ],
+    "tags": [
+      "Languages & Tooling"
+    ],
+    "startsAt": null,
+    "endsAt": null,
+    "room": null,
+    "isServiceSession": false,
+    "isPlenumSession": false,
+    "liveUrl": null,
+    "recordingUrl": null
+  }
+]
